@@ -13,7 +13,7 @@
 
 <li> pip install lolcat </li>
 
-<li> git clone https://github.com/C-Scripting101/CARL-WIFI-CRACKING.git </li>
+<li> https://github.com/HckZ-CraZe-C/C-WIFI-CRACK.git </li>
 
 <li> cd CARL-WIFI-CRACKING </li>
 
