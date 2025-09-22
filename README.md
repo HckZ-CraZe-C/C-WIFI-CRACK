@@ -19,6 +19,6 @@
 
 <li> chmod +x * </li>
 
-<li> python C4RL-W1F1-CR4CK.py </li>
+<li> python C-W1F1-CR4CK.py </li>
 
 </ul>
